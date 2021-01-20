@@ -1,0 +1,10 @@
+install pip
+============================
+py -m ensurepip --default-pip
+
+You need to add the path of your pip installation to your PATH system variable.
+By default, pip is installed to C:\Python34\Scripts\pip
+
+install numpy
+==================================
+pip install numpy
