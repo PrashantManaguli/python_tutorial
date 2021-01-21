@@ -1,2 +1,3 @@
-print("Hello World")
-print("This first program")
+import math as m
+x = m.pow(3, 4)
+print(int(x))
