@@ -1,3 +1,7 @@
+
+import math as m
+x = m.pow(3, 4)
+print(int(x))
 print("Hello World")
 print("This first program")
 f = open("demofile.txt", "a")
